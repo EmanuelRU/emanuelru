@@ -49,6 +49,7 @@ Destaco por una mentalidad analítica orientada a la resolución de problemas t�
   <img height="80" src="sql.png" alt="sql logo"/> &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="80" src="iso.png" alt="iso logo"/>
 </p>
+
 ---
 
 ## 5. Experiencia Profesional
