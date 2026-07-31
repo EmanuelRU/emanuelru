@@ -58,7 +58,7 @@ Destaco por una mentalidad analítica orientada a la resolución de problemas t�
     </td>
     </td>
     <td>
-      <img src="iso.png" alt="iso logo"/>
+      <img height: 104px src="iso.png" alt="iso logo"/>
     </td>
   </tr>
 </table>
