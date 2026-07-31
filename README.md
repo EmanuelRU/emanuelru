@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **EmanuelRU/emanuelru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -60,8 +58,10 @@ Destaco por una mentalidad analítica orientada a la resolución de problemas t�
 * **Herramientas:** VS Code, XAMPP, Git, GitHub, Terminal / CLI.
 * **Estándares:** SDLC, ISO/IEC 12207, ISO/IEC 25010, ISO 90003, Modelado ER.
 
-<img width="2" height="1" alt="image" src="https://github.com/user-attachments/assets/9a903188-fe94-4a3c-9825-b68887fbbec2" />
-
+<img width="2" height="1" src="php.png" alt="php logo"/>
+<img width="2" height="1" src="hmtml5.png" alt="html5 logo"/>
+<img width="2" height="1" src="sql.png" alt="sql logo"/>
+<img width="2" height="1" src="iso.png" alt="iso logo"/>
 
 ---
 
@@ -79,7 +79,7 @@ Destaco por una mentalidad analítica orientada a la resolución de problemas t�
 
 ## 6. Habilidades Blandas
 
-<img width="2" height="1" alt="image" src="https://github.com/user-attachments/assets/fdd1b579-28fd-4e0a-ad9c-04ed7749186a" />
+<img width="2" height="1" src="skill.png" alt="skills logo"/>
 
 
 * **Pensamiento Analítico:** Descomposición eficiente de problemas lógicos.
