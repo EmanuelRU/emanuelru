@@ -58,6 +58,9 @@ Destaco por una mentalidad analítica orientada a la resolución de problemas t�
 * **Herramientas:** VS Code, XAMPP, Git, GitHub, Terminal / CLI.
 * **Estándares:** SDLC, ISO/IEC 12207, ISO/IEC 25010, ISO 90003, Modelado ER.
 
+<div align="left">
+  <img width="2" height="1" src="php.png" alt="php logo"/>
+</div>
 <img width="2" height="1" src="php.png" alt="php logo"/>
 <img width="2" height="1" src="hmtml5.png" alt="html5 logo"/>
 <img width="2" height="1" src="sql.png" alt="sql logo"/>
