@@ -1,21 +1,8 @@
-<!--
-**EmanuelRU/emanuelru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<link rel="stylesheet" href="styles.css">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <img src="banner.png" alt="Banner" />
 </div>
-## **Perfil Profesional - Emanuel Rueda Urrea**
 
 ## 1. Resumen Ejecutivo
 
@@ -58,13 +45,21 @@ Destaco por una mentalidad analítica orientada a la resolución de problemas t�
 * **Herramientas:** VS Code, XAMPP, Git, GitHub, Terminal / CLI.
 * **Estándares:** SDLC, ISO/IEC 12207, ISO/IEC 25010, ISO 90003, Modelado ER.
 
-<div align="left">
-  <img height="70" src="php.png" alt="php logo"/>
+<div class="php">
+  <img src="php.png" alt="php logo"/>
 </div>
-<img height="70" src="php.png" alt="php logo"/>
-<img height="70" src="html5.png" alt="html5 logo"/>
-<img height="70" src="sql.png" alt="sql logo"/>
-<img height="70" src="iso.png" alt="iso logo"/>
+
+<div class="html">
+<img src="html5.png" alt="html5 logo"/>
+</div>
+
+<div class="sql">
+<img src="sql.png" alt="sql logo"/>
+</div>
+
+<div class="iso">
+<img src="iso.png" alt="iso logo"/>
+</div>
 
 ---
 
@@ -82,7 +77,9 @@ Destaco por una mentalidad analítica orientada a la resolución de problemas t�
 
 ## 6. Habilidades Blandas
 
-<img width="2" height="1" src="skill.png" alt="skills logo"/>
+<div align="left">
+  <img src="ems.png" alt="ebike logo" />
+</div>
 
 
 * **Pensamiento Analítico:** Descomposición eficiente de problemas lógicos.
