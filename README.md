@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="styles.css">
-
 <div align="center">
   <img src="banner.png" alt="Banner" />
 </div>
@@ -45,23 +43,12 @@ Destaco por una mentalidad analítica orientada a la resolución de problemas t�
 * **Herramientas:** VS Code, XAMPP, Git, GitHub, Terminal / CLI.
 * **Estándares:** SDLC, ISO/IEC 12207, ISO/IEC 25010, ISO 90003, Modelado ER.
 
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="php.png" alt="php logo"/>
-    </td>
-    <td>
-      <img src="html5.png" alt="html5 logo"/>
-    </td>
-    <td>
-      <img src="sql.png" alt="sql logo"/>
-    </td>
-    </td>
-    <td>
-      <img height: 104px src="iso.png" alt="iso logo"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="65" src="php.png" alt="php logo"/>
+  <img height="65" src="html5.png" alt="html5 logo"/>
+  <img height="65" src="sql.png" alt="sql logo"/>
+  <img height="65" src="iso.png" alt="iso logo"/>
+</p>
 
 ---
 
@@ -81,14 +68,16 @@ Destaco por una mentalidad analítica orientada a la resolución de problemas t�
 
 <table>
   <tr>
-    <td align="center" valign="middle">
-      <img src="skill.png" alt="ebike logo" />
+    <td align="center" valign="middle" width="30%">
+      <img src="skill.png" alt="skills logo" width="220" />
     </td>
-    <td>
-      <p>* **Pensamiento Analítico:** Descomposición eficiente de problemas lógicos.
-* **Resolución Autónoma:** Diagnóstico y solución de fallas en entornos locales y código.
-**Orientación a la Calidad:** Código limpio, mantenible y alineado a estándares ISO.
-* **Aprendizaje Continuo:** Adopción constante de tecnologías y herramientas.</p>
+    <td valign="middle">
+      <ul>
+        <li><b>Pensamiento Analítico:</b> Descomposición eficiente de problemas lógicos.</li>
+        <li><b>Resolución Autónoma:</b> Diagnóstico y solución de fallas en entornos locales y código.</li>
+        <li><b>Orientación a la Calidad:</b> Código limpio, mantenible y alineado a estándares ISO.</li>
+        <li><b>Aprendizaje Continuo:</b> Adopción constante de tecnologías y herramientas.</li>
+      </ul>
     </td>
   </tr>
 </table>
