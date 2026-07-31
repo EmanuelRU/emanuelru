@@ -83,10 +83,10 @@ Destaco por una mentalidad analítica orientada a la resolución de problemas t�
       <img src="skill.png" alt="ebike logo" />
     </td>
     <td>
-      * **Pensamiento Analítico:** Descomposición eficiente de problemas lógicos.
-      * **Resolución Autónoma:** Diagnóstico y solución de fallas en entornos locales y código.
-      * **Orientación a la Calidad:** Código limpio, mantenible y alineado a estándares ISO.
-      * **Aprendizaje Continuo:** Adopción constante de tecnologías y herramientas.
+      <p>* **Pensamiento Analítico:** Descomposición eficiente de problemas lógicos.
+* **Resolución Autónoma:** Diagnóstico y solución de fallas en entornos locales y código.
+**Orientación a la Calidad:** Código limpio, mantenible y alineado a estándares ISO.
+* **Aprendizaje Continuo:** Adopción constante de tecnologías y herramientas.</p>
     </td>
   </tr>
 </table>
