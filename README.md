@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="banner.png" alt="Banner" />
 </div>
-# Perfil Profesional - Emanuel Rueda Urrea
+## **Perfil Profesional - Emanuel Rueda Urrea**
 
 ## 1. Resumen Ejecutivo
 
