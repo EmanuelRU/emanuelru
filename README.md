@@ -44,12 +44,11 @@ Destaco por una mentalidad analítica orientada a la resolución de problemas t�
 * **Estándares:** SDLC, ISO/IEC 12207, ISO/IEC 25010, ISO 90003, Modelado ER.
 
 <p align="center">
-  <img height="65" src="php.png" alt="php logo"/>
-  <img height="65" src="html5.png" alt="html5 logo"/>
-  <img height="65" src="sql.png" alt="sql logo"/>
-  <img height="65" src="iso.png" alt="iso logo"/>
+  <img height="80" src="php.png" alt="php logo"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="80" src="html5.png" alt="html5 logo"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="80" src="sql.png" alt="sql logo"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="80" src="iso.png" alt="iso logo"/>
 </p>
-
 ---
 
 ## 5. Experiencia Profesional
